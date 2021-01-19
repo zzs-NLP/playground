@@ -2,13 +2,9 @@ package com.example.atmdemo.service;
 
 import com.example.atmdemo.entity.Account;
 import com.example.atmdemo.entity.Bank;
-import com.example.atmdemo.entity.Card;
 import com.example.atmdemo.utils.R;
-import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.stereotype.Service;
 
 import java.util.HashMap;
-import java.util.Iterator;
 import java.util.Random;
 
 
